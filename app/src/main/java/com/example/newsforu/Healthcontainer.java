@@ -20,7 +20,7 @@ import retrofit2.Response;
 import static com.example.newsforu.R.layout.healthcontainer;
 
 public class Healthcontainer extends Fragment {
-    String apiKey = "1a4be06e3c5d444e96761b01b2dc2f00";
+    String apiKey = "use your api key";
     ArrayList<ApiClass> apiClassArrayList;
     Adapter adapter;
     String country = "in";

@@ -8,13 +8,13 @@ import android.os.Bundle;
 import androidx.appcompat.widget.Toolbar;
 import com.google.android.material.tabs.TabItem;
 import com.google.android.material.tabs.TabLayout;
-// API   1a4be06e3c5d444e96761b01b2dc2f00
+
 public class MainActivity extends AppCompatActivity {
     TabLayout tabLayout;
     TabItem itemHome, itemSports, itemHealth, itemScience, itemEntertainment, itemTechnology;
     PagerAdapter pagerAdapter;
     Toolbar mtoolbar;
-//    String apiKey = "1a4be06e3c5d444e96761b01b2dc2f00";
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

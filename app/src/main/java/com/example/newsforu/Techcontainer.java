@@ -18,7 +18,7 @@ import retrofit2.Callback;
 import retrofit2.Response;
 
 public class Techcontainer extends Fragment {
-    String apiKey = "1a4be06e3c5d444e96761b01b2dc2f00";
+    String apiKey = "use your api key";
     ArrayList<ApiClass> apiClassArrayList;
     Adapter adapter;
     String country = "in";
